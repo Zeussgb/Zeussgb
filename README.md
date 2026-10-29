@@ -2,10 +2,10 @@
 
 Estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en Red) en España.
 
-### En qué ando
-- Homelab propio con **Proxmox**
+### Intereses
+- Administración de sistemas y redes
 - Linux y virtualización
-- Redes y administración de sistemas
+- Homelab propio con **Proxmox**
 
 ### Contacto
-zeusgonzalvo@gmail.com
+zeusviala@gmail.com
