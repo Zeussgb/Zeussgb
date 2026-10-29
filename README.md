@@ -1,11 +1,6 @@
 # Hola, soy Zeus
 
-Estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en Red) en España.
-
-### Intereses
-- Administración de sistemas y redes
-- Linux y virtualización
-- Homelab propio con **Proxmox**
+Estudiante de **2º de ASIR** en España. Me centro en la administración de sistemas, redes, Linux y virtualización, y tengo un homelab propio con **Proxmox** donde pruebo cosas.
 
 ### Contacto
 zeusviala@gmail.com
